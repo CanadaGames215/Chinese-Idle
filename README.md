@@ -8,4 +8,5 @@ The China Country of Idler Games. However to Gain.
 
 # Making Game Videos
 ## 1-10
-[Part 1](https://youtu.be/h4AHxz4Rmeg)
+[Part 1 (Day 1)](https://youtu.be/h4AHxz4Rmeg)
+[Part 2 (Day 2)](https://youtu.be/qrGpYPYmSSQ)
